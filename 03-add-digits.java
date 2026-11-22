@@ -1,0 +1,4 @@
+// Problem 3: Add Digits
+// LeetCode Java solution
+
+class Solution { public int addDigits(int n) { while(n>=10){int s=0;while(n>0){s+=n%10;n/=10;}n=s;}return n; } }

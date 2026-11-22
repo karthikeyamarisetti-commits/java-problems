@@ -1,0 +1,4 @@
+// Problem 20: To Lower Case
+// LeetCode Java solution
+
+class Solution { public String toLowerCase(String s) { return s.toLowerCase(); } }
