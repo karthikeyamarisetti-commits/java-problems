@@ -34,7 +34,7 @@ class Solution { public String interpret(String c) { return c.replace("()","o").
 ```
 ## 19. Defanging an IP Address
 ```java
-class Solution { public String defangIPaddr(String a) { return a.replace(".","[.]”); } }
+class Solution { public String defangIPaddr(String a) { return a.replace(".","[.]"); } }
 ```
 ## 20. To Lower Case
 ```java
